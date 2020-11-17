@@ -9,6 +9,7 @@ I work in the area of Security/Pentest 🔰 and I'm developing my skills in C,C+
 Follow my social networks:
 
 [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)
+
 [Blog](https://hellolibre.blogspot.com/)
 
 ---
