@@ -1,16 +1,15 @@
-### Hi there 👋
+## A little bit about me 🌀
+---
+I'm Yan Brasiliano, currently T.I Intern at TRT5.
 
-<!--
-**yanbrasiliano/yanbrasiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in the area of Security/Pentest 🔰 and I'm developing my skills in C,C++, HTML5/CSS3, JS, Python and Java. :computer:
 
-Here are some ideas to get you started:
+Follow my social networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/yan-brasiliano/)
+
+[Blog](https://hellolibre.blogspot.com/)
+
+
+
+[signature](https://user-images.githubusercontent.com/72168914/98311581-802aef00-1fae-11eb-9643-9cea7f516b80.png)
