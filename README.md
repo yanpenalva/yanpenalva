@@ -7,9 +7,9 @@
 
    I'm developing my skills in :computer:<br>
 
-  •C<br>
+  • C
 
-  •C++<br> 
+  • C++<br> 
 
   •HTML5/CSS3 <br> 
 
