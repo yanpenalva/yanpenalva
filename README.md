@@ -10,6 +10,7 @@ I'm Yan, currently T.I Intern at TRT5.<br>
 I work in the area of Security/Pentest. 🔰<br> 
 
 :computer: I'm developing my skills in:<br>
+
 •C<br>
 
 •C++<br> 
