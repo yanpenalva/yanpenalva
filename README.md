@@ -7,21 +7,11 @@
 
    I'm developing my skills in :computer:<br>
 
-  • C
+  • C • C++ • HTML5/CSS3 
 
-  • C++<br> 
-
-  •HTML5/CSS3 <br> 
-
-  •JS <br> 
-
-  •Python  <br> 
-
-  •Java <br> 
-
+  • JS  • Python • Java  
 
   <h3>:gear: Stack </h3><br>
-
   • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • Debian Buster  • Security and Networks.
 
 ---
