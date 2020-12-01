@@ -1,36 +1,35 @@
+<div align="center">
+  <h2>A little bit about me 👨‍💻</h2>
 
-<h2>A little bit about me 👨‍💻</h2>
+   I'm Yan, currently T.I Intern at TRT5.<br>
 
----
+   I work in the area of Security/Pentest. 🔰<br> 
 
-I'm Yan, currently T.I Intern at TRT5.<br>
+   I'm developing my skills in :computer:<br>
 
-I work in the area of Security/Pentest. 🔰<br> 
+  •C<br>
 
-:computer: I'm developing my skills in:<br>
+  •C++<br> 
 
-•C<br>
+  •HTML5/CSS3 <br> 
 
-•C++<br> 
+  •JS <br> 
 
-•HTML5/CSS3 <br> 
+  •Python  <br> 
 
-•JS <br> 
-
-•Python  <br> 
-
-•Java <br> 
+  •Java <br> 
 
 
-<h3>:gear: Stack </h3><br>
+  <h3>:gear: Stack </h3><br>
 
-• GNU/Linux  • VsCode  • Vim  • XeD  • Debian Buster  • Security and Networks.
+  • GNU/Linux  • VsCode  • Vim  • XeD  • Debian Buster  • Security and Networks.
 
 ---
-<h3>🌐 Follow my social networks</h3>
 
-• [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
-• [ Blog](https://hellolibre.blogspot.com/)
+  <h3>🌐 Follow my social networks</h3>
+
+  • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
+  • [ Blog](https://hellolibre.blogspot.com/)
 
 
 ---
