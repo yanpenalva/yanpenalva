@@ -5,14 +5,15 @@
 
    I work in the area of Security/Pentest. 🔰<br> 
 
+   
    I'm developing my skills in :computer:<br>
 
-  • C • C++ • HTML5/CSS3 
+  • C  • C++  • HTML5/CSS3 
 
-  • JS  • Python • Java  
+  • JS   • Python  • Java  
 
   <h3>:gear: Stack </h3><br>
-  • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • Debian Buster  • Security and Networks.
+  • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • ⭐ Debian Buster  • 🛡️ Security and Networks.
 
 ---
 
