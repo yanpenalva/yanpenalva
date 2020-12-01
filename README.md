@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center">;
   <h2>A little bit about me 👨‍💻</h2>
 
-   I'm Yan, currently T.I Intern at TRT5.<br>
+   I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
 
    I work in the area of Security/Pentest. 🔰<br> 
 
@@ -22,7 +22,7 @@
 
   <h3>:gear: Stack </h3><br>
 
-  • GNU/Linux  • VsCode  • Vim  • XeD  • Debian Buster  • Security and Networks.
+  • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • Debian Buster  • Security and Networks.
 
 ---
 
