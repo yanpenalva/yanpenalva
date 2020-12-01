@@ -1,5 +1,8 @@
 
-## A little bit about me 👨‍💻
+
+  
+<h2>A little bit about me 👨‍💻</h2>
+
 ---
 
 I'm Yan, currently T.I Intern at TRT5.<br>
@@ -15,12 +18,12 @@ I work in the area of Security/Pentest. 🔰<br>
 •Java <br> 
 
 
-:gear: Stack <br>
+<h3>:gear: Stack </h3><br>
 
 • GNU/Linux  • VsCode  • Vim  • XeD  • Debian Buster  • Security and Networks.
 
 ---
-🌐 Follow my social networks
+<h3>🌐 Follow my social networks</h3>
 
 • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
 • [ Blog](https://hellolibre.blogspot.com/)
