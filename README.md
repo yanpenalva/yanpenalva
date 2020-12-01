@@ -1,5 +1,7 @@
 <div align="center">;
-  <h2>A little bit about me 👨‍💻</h2>
+  <h2>Hello, I'm Yan Brasiliano S.Penalva 🎖️</h2>
+    <hr>
+  <h3> About me 👨‍💻</h3>
 
    I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
 
@@ -12,7 +14,7 @@
 
   • JS   • Python  • Java  
 
-  <h3>:gear: Stack </h3><br>
+  <h3>:gear: Stack </h3>
   • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • ⭐ Debian Buster  • 🛡️ Security and Networks.
 
 ---
