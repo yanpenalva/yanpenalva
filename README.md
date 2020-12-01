@@ -1,6 +1,4 @@
 
-
-  
 <h2>A little bit about me 👨‍💻</h2>
 
 ---
