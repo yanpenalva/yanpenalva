@@ -12,7 +12,9 @@
 
   • C  • C++  • HTML5/CSS3 
 
-  • JS   • Python  • Java  
+  • JS   • Python  • Java
+  
+  • Computer Networks    • Pentest
 
   <h3>:gear: Stack </h3>
   • :computer: GNU/Linux  • VsCode  • Vim   • XeD  <br> • ⭐ Debian Buster  • 🛡️ Security and Networks.
