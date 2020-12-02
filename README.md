@@ -24,9 +24,8 @@
   <h3>🌐 Follow my social networks</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
-  • [ Blog](https://hellolibre.blogspot.com/)
+  • [Blog](https://hellolibre.blogspot.com/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![index](https://user-images.githubusercontent.com/72168914/99657239-ac2d8200-2a3c-11eb-9187-e53870086ce6.jpeg)
