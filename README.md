@@ -1,4 +1,4 @@
-<div align="center">;
+<div align="center">
   <h2>Hello, I'm Yan Brasiliano S.Penalva 🎖️</h2>
     <hr>
   <h3> About me 👨‍💻</h3>
