@@ -26,6 +26,6 @@
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
   • [Blog](https://hellolibre.blogspot.com/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano)](https://github.com/anuraghazra/github-readme-stats) ![logoedit](https://user-images.githubusercontent.com/72168914/101424805-1ddd4b00-38da-11eb-95ce-c05f2e3e8e92.jpeg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![logoedit](https://user-images.githubusercontent.com/72168914/101424805-1ddd4b00-38da-11eb-95ce-c05f2e3e8e92.jpeg)
 
 ---
