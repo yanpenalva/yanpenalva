@@ -27,4 +27,4 @@
   • [Blog](https://hellolibre.blogspot.com/)
 
 ---
-![logoedit](https://user-images.githubusercontent.com/72168914/101424426-e66e9e80-38d9-11eb-8e8c-6d83f0c572f1.jpeg)
+![logoedit](https://user-images.githubusercontent.com/72168914/101424805-1ddd4b00-38da-11eb-95ce-c05f2e3e8e92.jpeg)
