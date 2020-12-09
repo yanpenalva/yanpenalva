@@ -30,6 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![logoedit](https://user-images.githubusercontent.com/72168914/101424805-1ddd4b00-38da-11eb-95ce-c05f2e3e8e92.jpeg)
+
 
 
