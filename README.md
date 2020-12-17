@@ -27,7 +27,6 @@
   • :computer: GNU/Linux  • VsCode  • Vim  • XeD  <br> • ⭐ Debian Buster
 
 ---
-
   <h3>🌐 Follow my social networks</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
