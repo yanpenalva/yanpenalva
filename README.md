@@ -13,7 +13,7 @@
 
   • C  • HTML5/CSS3   • JS   
   
-  • Batch Script • Shell Script
+  • Batch Script • Shell Script • Python
   
   • Computer Networks   • Pentest
   
@@ -21,7 +21,7 @@
 
   💻 I intend to develop skills in:
     
-   • C++ • Python  • Java
+   • C++  • Java
   
   <h3>:gear: Stack </h3>
   • :computer: GNU/Linux  • VsCode  • Vim  • XeD  <br> • ⭐ Debian Buster
