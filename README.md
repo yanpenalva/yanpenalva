@@ -11,9 +11,9 @@
   
   💻 I'm currently learning: :computer:<br>
 
-  • C  • HTML5/CSS3   • JS   
+  • Python  • HTML5/CSS3   • JS   
   
-  • Batch Script • Shell Script • Python
+  • Batch Script • Shell Script • C
   
   • Computer Networks   • Pentest
   
