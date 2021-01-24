@@ -6,7 +6,9 @@
    I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
 
    I'm interning in the area Security Networks and Pentest. 🔰<br> 
-    
+  
+  <br>
+  
   💻 I'm currently learning: :computer:<br>
 
   • Python  • HTML5/CSS3   • JS   
