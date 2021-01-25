@@ -25,8 +25,9 @@
   
   <h3>:gear: Stack </h3>
   • :computer: GNU/Linux  • 🔅 VsCode  • Vim  • XeD  <br>
-
----
+  
+  <hr>
+  
   <h3>🌐 Follow my social networks</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
