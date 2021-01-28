@@ -32,11 +32,12 @@
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
   • [Blog](https://hellolibre.blogspot.com/)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
