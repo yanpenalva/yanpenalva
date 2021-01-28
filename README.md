@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello, I'm Yan Brasiliano S.Penalva 🎖️</h2>
-    <hr>
+   
   <h3> About me 👨‍💻</h3>
 
    I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
@@ -32,6 +32,7 @@
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
   • [Blog](https://hellolibre.blogspot.com/)
+  <br>
   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
