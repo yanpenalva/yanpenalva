@@ -24,7 +24,7 @@
    • C++  • Java
   
   <h3>:gear: Stack </h3>
-  • :computer: GNU/Linux  • 🔅 VsCode  • Vim  • 📝 XeD  <br>
+  • :computer: GNU/Linux • 🔅 VsCode • :fire: Vim • 📝 XeD  <br>
   
   <hr>
   
