@@ -11,17 +11,15 @@
   
   💻 I'm currently learning: :computer:<br>
 
-  • Python  • HTML5/CSS3   • JS   
+  • Python • Shell Script 
   
-  • Batch Script • Shell Script • C
-  
-  • Computer Networks   • Pentest
+  • Computer Networks • Pentest
   
   <br>
-
-  💻 I intend to develop skills in:
+  
+  💻 I also study, less frequently: 
     
-   • C++  • Java
+  • HTML5/CSS3 • JS • C
   
   <h3>:gear: Stack </h3>
   • :computer: GNU/Linux • 🔅 VsCode • :fire: Vim • 📝 XeD  <br>
