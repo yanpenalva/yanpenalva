@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello, I'm Yan Brasiliano S.Penalva 🎖️</h2>
+  <h2>Hello, I'm Yan Brasiliano S.Penalva :fire:</h2>
    
   <h3> About me 👨‍💻</h3>
 
@@ -20,6 +20,8 @@
   💻 I also study, less frequently: 
     
   • HTML5/CSS3 • JS • C
+  
+   <br>
   
   <h3>:gear: Stack </h3>
   • :computer: GNU/Linux • 🔅 VsCode • :fire: Vim • 📝 XeD  <br>
