@@ -30,7 +30,7 @@
   
   <h3>🌐 Follow my social networks</h3>
 
-  • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/)<br> 
+  • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
   • [Blog](https://hellolibre.blogspot.com/)
   <br>
   <br>
