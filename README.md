@@ -28,11 +28,11 @@
   
   <hr>
   
-  <h3>🌐 Follow my social networks</h3>
+  <h3>🌐 Check my profiles and blogger</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
-  • [Blog](https://hellolibre.blogspot.com/)
-  • [About.me](https://about.me/brasiliano/)
+   • [Blog](https://hellolibre.blogspot.com/)
+    • [About.me](https://about.me/brasiliano/)
   <br>
   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
