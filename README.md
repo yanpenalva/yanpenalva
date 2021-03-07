@@ -24,7 +24,7 @@
    <br>
   
   <h3>:gear: Stack </h3>
-  • :computer: GNU/Linux • 🔅 VsCode • 📝 XeD  <br>
+  • :computer: GNU/Linux • 🔅 VsCode • 📝 Mousepad  <br>
   
   <hr>
   
