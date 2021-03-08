@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hello, I'm Yan Brasiliano S.Penalva :fire:</h2>
    
-  <h3> About me 👨‍💻</h3>
+  <h3>About me 👨‍💻</h3>
 
    I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
 
@@ -31,8 +31,9 @@
   <h3>🌐 Check my profiles and blogger</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
-   • [Blog](https://hellolibre.blogspot.com/)
-    • [About.me](https://about.me/brasiliano/)
+  • [Blog](https://hellolibre.blogspot.com/)
+  • [About.me](https://about.me/brasiliano/)
+  
   <br>
   <br>
 
