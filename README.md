@@ -11,9 +11,9 @@
   
   💻 I'm currently learning: :computer:<br>
 
-  • Python • Shell Script 
+  • Python    • Shell Script 
   
-  • Computer Networks • Pentest
+  • Computer Networks • Cybersecurity/Pentest
   
   <br>
   
@@ -24,7 +24,7 @@
    <br>
   
   <h3>:gear: Stack </h3>
-  • :computer: GNU/Linux • 🔅 VsCode • 📝 Mousepad  <br>
+  • :computer: GNU/Linux Lubuntu Stable Version • 🔅 VsCode <br>
   
   <hr>
   
