@@ -19,7 +19,8 @@
   
   💻 I also study, less frequently: 
     
-  • HTML5/CSS3 • JS • C
+  • Front-end: HTML5/CSS3 
+  • Back-end: JSS,C and Assembly.
   
    <br>
   
@@ -31,7 +32,7 @@
   <h3>🌐 Check my profiles and blogger</h3>
 
   • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
-  • [Blog](https://hellolibre.blogspot.com/)
+  • [Libresec.me](https://www.libresec.me/)
   • [About.me](https://about.me/brasiliano/)
   
   <br>
