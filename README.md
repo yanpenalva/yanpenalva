@@ -20,7 +20,7 @@
   💻 I also study, less frequently: 
     
   • Front-end: HTML5/CSS3<br>
-  • Back-end: JSS,C and Assembly.
+  • Back-end: JS,C and Assembly.
   
    <br>
   
