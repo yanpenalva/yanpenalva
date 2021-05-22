@@ -29,11 +29,11 @@
   
   <hr>
   
-  <h3>🌐 Check my profiles and blogger</h3>
+  <h3>🌐 Check my profiles and Website</h3>
 
-  • [Linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
-  • [Libresec.me](https://www.libresec.me/)
-  • [About.me](https://about.me/brasiliano/)
+  • [linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
+  • [libresec.me](https://www.libresec.me/)
+  • [about.me](https://about.me/brasiliano/)
   
   <br>
   <br>
