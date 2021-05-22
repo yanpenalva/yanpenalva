@@ -24,11 +24,7 @@
   
    <br>
   
-  <h3>:gear: Stack </h3>
-  • :computer: GNU/Linux Lubuntu Stable Version • 🔅 VsCode <br>
-  
-  <hr>
-  
+ 
   <h3>🌐 Check my profiles and Website</h3>
 
   • [linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
