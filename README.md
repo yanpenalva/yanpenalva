@@ -19,8 +19,8 @@
   
   💻 I also study, less frequently: 
     
-  • Front-end: HTML5/CSS3<br>
-  • Back-end: JS,C and Assembly.
+  • HTML5/CSS3<br>
+  • JS,C and Assembly.
   
    <br>
   
