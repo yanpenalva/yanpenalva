@@ -11,7 +11,7 @@
   
   💻 I'm currently learning: :computer:<br>
 
-  • Python    • Shell Script 
+  • Java    • Shell Script 
   
   • Computer Networks • Cybersecurity/Pentest
   
@@ -22,7 +22,7 @@
   • HTML5/CSS3<br>
   <br>
   • JS,C and Assembly.
-  
+  • Python <br>
    <br>
   
  
