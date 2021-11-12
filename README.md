@@ -3,10 +3,8 @@
    
   <h3>About me 👨‍💻</h3>
 
-   I'm Yan, currently T.I Intern at TRT5. :briefcase: <br>
-
-   I'm interning in the area Security Networks and Pentest. 🔰<br> 
-  
+   I'm Yan, currently Developer Jr. at Ramiro Campelo. :briefcase: <br>
+     
   <br>
   
   💻 I'm currently learning: :computer:<br>
