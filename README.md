@@ -9,10 +9,9 @@
   
   💻 I'm currently learning: :computer:<br>
 
-  • Java    • Shell Script 
+  • Java    • Shell Script • PHP
   
-  • Computer Networks • Cybersecurity/Pentest
-  
+ 
   <br>
   
   💻 I also study, less frequently: 
