@@ -6,23 +6,18 @@
    I'm Yan, currently Developer Jr. at Ramiro Campelo. :briefcase: <br>
      
   <br>
-  
-  💻 I'm currently learning: :computer:<br>
+            
+   ⚙️ My currently stack learning ⚙️ <br>
 
-  • Java    • Shell Script • PHP
-  
+  • PHP  • Laravel  • Javascript
+   • HTML5/CSS3/Bootstrap
  
   <br>
   
-  💻 I also study, less frequently: 
-    
-  • HTML5/CSS3<br>
-  <br>
-  • JS,C and Assembly.
-  • Python <br>
-   <br>
-  
- 
+<!--  💻 I also study, less frequently: 
+    <br>
+  • C, Assembly, Java and Python. -->
+      
   <h3>🌐 Check my profiles and Website</h3>
 
   • [linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
