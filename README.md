@@ -7,10 +7,10 @@
      
   <br>
             
-   ⚙️ My currently stack learning ⚙️ <br>
+   ⚙️ My currently stack programming learning ⚙️ <br>
 
   • PHP  • Laravel  • Javascript
-   • HTML5/CSS3/Bootstrap
+  • HTML5/CSS3/Bootstrap
  
   <br>
   
@@ -26,10 +26,6 @@
   <br>
   <br>
  
-  
-  
-
-
 ![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
