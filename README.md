@@ -18,14 +18,17 @@
     <br>
   • C, Assembly, Java and Python. -->
       
-  <h3>🌐 Check my profiles and Website</h3>
+  <h3>🌐 Others profiles and 🛠️ Projects </h3>
 
   • [linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
-  • [libresec.me](https://www.libresec.me/)
   • [about.me](https://about.me/brasiliano/)
+  • [libresec.me](https://www.libresec.me/)
+  <br>
+  <br>
+ 
   
-  <br>
-  <br>
+  
+
 
 ![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
