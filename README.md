@@ -20,7 +20,7 @@
       
   <h3>🌐 Others profiles and 🛠️ Projects </h3>
 
-  • [linkedin](https://www.linkedin.com/in/yan-brasiliano/) 
+  • [linkedin](https://www.linkedin.com/in/yanbrasiliano/) 
   • [about.me](https://about.me/brasiliano/)
   • [libresec.me](https://www.libresec.me/)
   <br>
