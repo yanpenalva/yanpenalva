@@ -3,7 +3,7 @@
    
   <h3>About me 👨‍💻</h3>
 
-   I'm Yan, currently Developer Jr. at Ramiro Campelo. :briefcase: <br>
+   I'm Yan, currently Developer Jr. at Avansys. :briefcase: <br>
      
   <br>
             
