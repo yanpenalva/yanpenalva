@@ -9,8 +9,10 @@
             
    ⚙️ My currently stack programming learning ⚙️ <br>
 
-  • PHP  • Laravel  • Javascript
-  • HTML5/CSS3/Bootstrap
+  • PHP  • Laravel<br>
+  • Javascript
+  • Vue.js<br>
+  • HTML5/CSS3/Bootstrap/TailwindCSS
  
   <br>
   
