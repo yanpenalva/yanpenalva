@@ -1,37 +1,23 @@
-<div align="center">
-  <h2>Hello, I'm Yan Brasiliano S.Penalva 🦉</h2>
-   
-  <h3>About me 👨‍💻</h3>
-
-   I'm Yan, currently Developer Jr. at Avansys. :briefcase: <br>
-     
-  <br>
-            
-   ⚙️ My currently stack programming learning ⚙️ <br>
-
-  • PHP/Laravel<br>
-  • Javascript/Vue.js
-
- 
-  <br>
+## Hello World.
+<a href="https://www.linkedin.com/in/yanbrasiliano/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a>
+<a href = "mailto:yanpenabr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/yanbpenalva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "https://t.me/yanbsp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://libresec.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   
-<!--  💻 I also study, less frequently: 
-    <br>
-  • C, Assembly, Java and Python. -->
-      
-  <h3>🌐 Others profiles and 🛠️ Projects </h3>
+## ℹ️ About me
 
-  • [linkedin](https://www.linkedin.com/in/yanbrasiliano/) 
-  • [about.me](https://about.me/brasiliano/)
-  • [libresec.me](https://www.libresec.me/)
-  <br>
-  <br>
- 
+- 🌱 I’m currently learning PHP,Laravel, Javascript and Vue.js.
+- 🇧🇷 Born in Salvador-BA.
+- 💻 Junior Developer at [ACP Group](https://www.acpgroup.com.br/).
+- 🎓 Graduating in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
+- 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
 
- ![Alt Text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif) <br>
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbrasiliano&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanbrasiliano&theme=dracula)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+![visitors](https://komarev.com/ghpvc/?username=yanbpenalva)
 
