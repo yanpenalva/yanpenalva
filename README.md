@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning PHP,Laravel, Javascript and Vue.js.
 - 🇧🇷 Born in Salvador-BA.
-- 💻 Junior Developer at [ACP Group](https://www.acpgroup.com.br/).
-- 🎓 Graduating in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
+- 💻 Developer II at [Qintess](https://qintess.com/).
+- 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
 - 📚 Contributor Project [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao).
 
