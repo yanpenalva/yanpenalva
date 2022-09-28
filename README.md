@@ -7,7 +7,7 @@
   
 ## ℹ️ About me
 
-- 🌱 I’m currently learning PHP,Laravel, Javascript and Vue.js.
+- 🌱 I’m currently learning PHP,Laravel,Javascript and Vue.js.
 - 🇧🇷 Born in Salvador-BA.
 - 💻 Developer II at [Qintess](https://qintess.com/).
 - 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
@@ -27,8 +27,10 @@
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanbrasiliano&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanbrasiliano&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanbrasiliano&theme=dracula)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![visitors](https://komarev.com/ghpvc/?username=yanbpenalva)
 
