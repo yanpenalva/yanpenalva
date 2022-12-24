@@ -1,11 +1,15 @@
-## Welcome to my world 🦉
 <a href="https://www.linkedin.com/in/yanbrasiliano/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a>
 <a href = "mailto:yanpenabr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/yanbpenalva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/yanbsp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://www.penalva.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  
-## ℹ️ About me
+
+### Hello There
+<p>I don't really know how u got here, but I will try to show a little bit about myself for you.</p>
+
+<hr>
+
+### Resume
 - 🌱 I’m currently learning PHP(Laravel) and Javascript(Typescript and Vue.js).
 - 🇧🇷 Born in Salvador-BA.
 - 💻 Developer II at [Qintess](https://qintess.com/).
@@ -15,18 +19,9 @@
 - 🌐 Portfólio: www.penalva.me
 - 📰 Blog: www.libresec.me
 
-<!--
- <div style="display: inline_block"><br>
-  <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
-  <img align="center" alt="Yan-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Yan-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">  
-</div>
--->
-<br>
-<br>
+<hr>
+
+### Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanbrasiliano&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanbrasiliano&theme=dracula) 
