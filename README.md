@@ -10,7 +10,7 @@
 <hr>
 
 ### Resume
-- 🌱 I’m currently learning PHP(Laravel) and Javascript(Typescript and Vue.js).
+- 🌱 Stack: PHP(Laravel) and Javascript(Typescript and Vue.js).
 - 🇧🇷 Born in Salvador-BA.
 - 💻 Software Engineer at [Prodeb](http://www.prodeb.gov.br/).
 - 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
