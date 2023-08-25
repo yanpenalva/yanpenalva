@@ -18,7 +18,6 @@
 - 📚 Contributor Project [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao).
 - 🌐 Portfólio: www.penalva.me
 - 🟠 Gitlab: [Repository](https://gitlab.com/yanbrasiliano).
-- 📰 Blog: www.libresec.me
 
 <hr>
 
