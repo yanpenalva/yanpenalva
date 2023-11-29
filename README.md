@@ -1,13 +1,16 @@
-<a href="https://www.linkedin.com/in/yanbrasiliano/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a>
-<a href = "mailto:yanpenabr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.instagram.com/yanbpenalva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "https://t.me/yanbsp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yanbrasiliano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:yanpenabr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/yanbpenalva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/yanbsp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/+5571992432603" title="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://www.penalva.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 ### Hello There
 <p>I don't really know how u got here, but I will try to show a little bit about myself for you.</p>
 
 <hr>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Resume
 - 🇧🇷 Born in Salvador-BA.
@@ -23,11 +26,20 @@
 
 ### Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanbrasiliano&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanbrasiliano&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanbrasiliano&theme=dracula)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanbrasiliano&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanbrasiliano&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanbrasiliano&theme=dracula">
+</div>
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbrasiliano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
+<br>
+<hr>
 
-![visitors](https://komarev.com/ghpvc/?username=yanbpenalva)
+<h3 align="center"> Profile Visitors </h3>
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+  />
+</p>
