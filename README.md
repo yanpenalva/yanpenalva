@@ -16,7 +16,7 @@
 - 🇧🇷 Born in Salvador-BA.
 - 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [ACP Group](https://www.acpgroup.com.br/).
 - 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
-- 🎓 Post-Graduate in Software Engineer from the [UNOPAR](https://www.unopar.com.br/).
+- 🎓 Post-Graduate in Software Engineer/Software Architect and Software Solutions from the [UNOPAR](https://www.unopar.com.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
 - 📚 Contributor Project [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao).
 - 🌐 Portfólio: www.penalva.me
