@@ -20,6 +20,12 @@
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
 - 🌐 Site: www.penalva.me
 
+### Contributor Projects
+- **[yajra/laravel-acl](https://github.com/yajra/laravel-acl)**: Contributed with a bug fix that was merged. See the [PR](https://github.com/yajra/laravel-acl/pull/54) and the [release](https://github.com/yajra/laravel-acl/releases/tag/v11.1.1).
+- **[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)**: Created the basic DevOps curriculum for the Computer Science course. See the [DevOps curriculum](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md).
+
+
+
 
 <hr>
 
