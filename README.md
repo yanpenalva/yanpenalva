@@ -14,7 +14,7 @@
 
 ### Resume
 - 🇧🇷 Born in Salvador-BA.
-- 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Avansys Group](https://www.avansys.com.br/).
+- 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Netra Tecnologia](https://www.avansys.com.br/).
 - 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
 - 🎓 Post-Graduate in Software Engineer/Software Architect and Software Solutions from the [UNOPAR](https://www.unopar.com.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
