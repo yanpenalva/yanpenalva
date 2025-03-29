@@ -6,17 +6,17 @@
 <a href="https://www.penalva.me" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 ### Hello There
-<p>I don't really know how u got here, but I will try to show a little bit about myself for you.</p>
+<p>I don't know how u got here, but I will try to show a little bit about myself for you.</p>
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Resume
 - 🇧🇷 Born in Salvador-BA.
-- 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Netra Tecnologia](https://www.avansys.com.br/).
+- 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Netra](https://netra.global/).
 - 🎓 Graduated in Systems Analysis and Development from the [UNIFACS](https://www.unifacs.br/).
-- 🎓 Post-Graduate in Software Engineer/Software Architect and Software Solutions from the [UNOPAR](https://www.unopar.com.br/).
+- 🎓 Post-Graduate in Software Engineer, Software Architect and Software Solutions from the [UNOPAR](https://www.unopar.com.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/yanbrasiliano/).
 - 🌐 Site: www.penalva.me
 
