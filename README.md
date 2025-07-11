@@ -34,15 +34,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanpenalva&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanpenalva&theme=dracula">
 </div>
-
-<br>
-<br>
-<hr>
-
-<h3 align="center"> Profile Visitors </h3>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
-  />
-</p>
