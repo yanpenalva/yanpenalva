@@ -17,16 +17,6 @@
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
----
-
-## 👋 Hello There
-Thanks for stopping by! Here’s a little about me.
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     alt="computer illustration" width="400" align="right"/>
-
----
-
 ## 📜 Resume
 - 🇧🇷 Born in Salvador-BA, Brazil.
 - 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Netra](https://netra.global/).
@@ -34,8 +24,6 @@ Thanks for stopping by! Here’s a little about me.
 - 🎓 Post-Graduate in Software Engineering, Software Architecture and Software Solutions - [UNOPAR](https://www.unopar.com.br/).
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/yanpenalva).
 - 🌍 Website: [penalva.me](https://www.penalva.me)
-
----
 
 
 ## 🌍 Open Source Contributions
@@ -46,13 +34,3 @@ Thanks for stopping by! Here’s a little about me.
 - **[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)**  
   Designed and authored the **DevOps curriculum** for the Computer Science course.  
   → [DevOps curriculum](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanpenalva&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanpenalva&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanpenalva&theme=dracula"/>
-</p>
