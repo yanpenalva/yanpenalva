@@ -19,7 +19,7 @@
 
 ## 📜 Resume
 - 🇧🇷 Born in Salvador-BA, Brazil.
-- 💻 Software Engineer at [UEFS](https://www.uefs.br/) through [Netra](https://netra.global/).
+- 💻 Software Engineer at [PRODEB](https://www.ba.gov.br/prodeb/).
 - 🎓 Graduated in Systems Analysis and Development - [UNIFACS](https://www.unifacs.br/).
 - 🎓 Post-Graduate in Software Engineering, Software Architecture and Software Solutions - [UNOPAR](https://www.unopar.com.br/).
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/yanpenalva).
