@@ -12,7 +12,7 @@
 
 Most of the work is in the parts that are hard to change later: API contracts, version compatibility, access control.
 Software Engineer at [PRODEB](https://www.ba.gov.br/prodeb/) — Salvador, Bahia, Brazil.
-Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgraduate in Software Engineering and Software Architecture, [UNOPAR](https://www.unopar.com.br/).
+Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgraduate studies in Software Engineering, Software Architecture and Solutions Architecture — [UNOPAR](https://www.unopar.com.br/).
 
 ## Open Source
 
