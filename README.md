@@ -10,19 +10,17 @@
 
 ## About
 
+Most of the work is in the parts that are hard to change later: API contracts, version compatibility, access control.
 Software Engineer at [PRODEB](https://www.ba.gov.br/prodeb/) — Salvador, Bahia, Brazil.
-Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgraduate in Software Engineering, Software Architecture and Software Solutions, [UNOPAR](https://www.unopar.com.br/).
+Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgraduate in Software Engineering and Software Architecture, [UNOPAR](https://www.unopar.com.br/).
 
 ## Open Source
 
 **[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 798★ · 194 forks
-Added GNOME Shell 42–44 support as a legacy extension tree, plus two shell-level fixes found in testing.
-→ [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
+Added GNOME Shell 42–44 support as a legacy extension tree; fixed a crash that made systemd restart the shell on every refresh. → [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
 
 **[yajra/laravel-acl](https://github.com/yajra/laravel-acl)** · 113★ · 145k downloads
-Fixed an access-control bug shipped in v11.1.1.
-→ [PR #54](https://github.com/yajra/laravel-acl/pull/54)
+Fixed an access-control bug shipped in v11.1.1. → [PR #54](https://github.com/yajra/laravel-acl/pull/54)
 
 **[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)** · 21k★ · 1.7k forks
-Designed and authored the DevOps track of the Computer Science curriculum.
-→ [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
+Designed and authored the DevOps track of the Computer Science curriculum. → [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
