@@ -10,17 +10,19 @@
 
 ## About
 
-* Software Engineer at [PRODEB](https://www.ba.gov.br/prodeb/).
-* Systems Analysis and Development — [UNIFACS](https://www.unifacs.br/).
-* Postgraduate studies in Software Engineering, Software Architecture and Software Solutions — [UNOPAR](https://www.unopar.com.br/).
-* Salvador, Bahia, Brazil.
+Software Engineer at [PRODEB](https://www.ba.gov.br/prodeb/) — Salvador, Bahia, Brazil.
+Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgraduate in Software Engineering, Software Architecture and Software Solutions, [UNOPAR](https://www.unopar.com.br/).
 
 ## Open Source
 
-* **[yajra/laravel-acl](https://github.com/yajra/laravel-acl)**
-  Fixed an access-control bug included in [v11.1.1](https://github.com/yajra/laravel-acl/releases/tag/v11.1.1).
-  → [PR #54](https://github.com/yajra/laravel-acl/pull/54)
+**[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 798★ · 194 forks
+Added GNOME Shell 42–44 support as a legacy extension tree, plus two shell-level fixes found in testing.
+→ [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
 
-* **[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)**
-  Designed and authored the **DevOps curriculum** for the Computer Science program.
-  → [DevOps curriculum](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
+**[yajra/laravel-acl](https://github.com/yajra/laravel-acl)** · 113★ · 145k downloads
+Fixed an access-control bug shipped in v11.1.1.
+→ [PR #54](https://github.com/yajra/laravel-acl/pull/54)
+
+**[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)** · 21k★ · 1.7k forks
+Designed and authored the DevOps track of the Computer Science curriculum.
+→ [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
