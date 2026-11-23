@@ -15,8 +15,9 @@ Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgrad
 
 ## Open Source
 
-**[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 798★ · 194 forks
+**[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 801★ · 197 forks
 Added GNOME Shell 42–44 support as a legacy extension tree; fixed a crash that made systemd restart the shell on every refresh. → [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
+Added projected pace and trend sparklines to `usage --json` and both GNOME frontends. → [PR #674](https://github.com/akitaonrails/ai-usagebar/pull/674)
 
 **[yajra/laravel-acl](https://github.com/yajra/laravel-acl)** · 145k downloads · 113★
 Fixed an access-control bug shipped in v11.1.1. → [PR #54](https://github.com/yajra/laravel-acl/pull/54)
