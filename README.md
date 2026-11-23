@@ -23,5 +23,3 @@ Fixed an access-control bug shipped in v11.1.1. → [PR #54](https://github.com/
 
 **[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)** · 21k★ · 1.7k forks
 Designed and authored the DevOps track of the Computer Science curriculum. → [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
-
-Own work: **[starter-kit-api](https://github.com/yanpenalva/starter-kit-api)** — Laravel REST API with a pinned OpenAPI contract and a CI gate that blocks breaking changes unless they carry an audited entry.
