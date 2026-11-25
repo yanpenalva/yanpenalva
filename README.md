@@ -15,16 +15,20 @@ Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgrad
 
 ## Open Source
 
-**[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** · 16k★ · 1.2k forks
-Added OpenCode, Gemini CLI project skills and Gemini CLI plugins to `backup-agents`. → [#2470](https://github.com/akitaonrails/ai-memory/pull/2470) · [#2473](https://github.com/akitaonrails/ai-memory/pull/2473) · [#2478](https://github.com/akitaonrails/ai-memory/pull/2478)
-Kept spooled hook events queued instead of charging a retry when a short request deadline expires mid-connect. → [#2471](https://github.com/akitaonrails/ai-memory/pull/2471)
+- **Archived OpenCode skills and Gemini CLI skills and plugins in `backup-agents`**  
+  [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2470](https://github.com/akitaonrails/ai-memory/pull/2470) [#2473](https://github.com/akitaonrails/ai-memory/pull/2473) [#2478](https://github.com/akitaonrails/ai-memory/pull/2478)
 
-**[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 801★ · 197 forks
-Added GNOME Shell 42–44 support as a legacy extension tree; fixed a crash that made systemd restart the shell on every refresh. → [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
-Added projected pace and trend sparklines to `usage --json` and both GNOME frontends. → [PR #674](https://github.com/akitaonrails/ai-usagebar/pull/674)
+- **Kept spooled hook events queued instead of spending a retry when a short deadline expires mid-connect**  
+  [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2471](https://github.com/akitaonrails/ai-memory/pull/2471)
 
-**[yajra/laravel-acl](https://github.com/yajra/laravel-acl)** · 145k downloads · 113★
-Fixed an access-control bug shipped in v11.1.1. → [PR #54](https://github.com/yajra/laravel-acl/pull/54)
+- **Added GNOME Shell 42–44 support, and fixed a crash that made systemd restart the shell on every refresh**  
+  [ai-usagebar](https://github.com/akitaonrails/ai-usagebar) 801★ · [#663](https://github.com/akitaonrails/ai-usagebar/pull/663)
 
-**[Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)** · 21k★ · 1.7k forks
-Designed and authored the DevOps track of the Computer Science curriculum. → [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
+- **Added projected pace and trend sparklines to `usage --json` and both GNOME frontends**  
+  [ai-usagebar](https://github.com/akitaonrails/ai-usagebar) 801★ · [#674](https://github.com/akitaonrails/ai-usagebar/pull/674)
+
+- **Fixed an access-control bug shipped upstream in v11.1.1**  
+  [laravel-acl](https://github.com/yajra/laravel-acl) 145k downloads · [#54](https://github.com/yajra/laravel-acl/pull/54)
+
+- **Designed and authored the DevOps track of the Computer Science curriculum**  
+  [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) 21k★ · [devops.md](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/devops.md)
