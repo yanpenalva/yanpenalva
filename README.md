@@ -15,6 +15,10 @@ Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgrad
 
 ## Open Source
 
+**[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** · 16k★ · 1.2k forks
+Added OpenCode, Gemini CLI project skills and Gemini CLI plugins to `backup-agents`. → [#2470](https://github.com/akitaonrails/ai-memory/pull/2470) · [#2473](https://github.com/akitaonrails/ai-memory/pull/2473) · [#2478](https://github.com/akitaonrails/ai-memory/pull/2478)
+Kept spooled hook events queued instead of charging a retry when a short request deadline expires mid-connect. → [#2471](https://github.com/akitaonrails/ai-memory/pull/2471)
+
 **[akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar)** · 801★ · 197 forks
 Added GNOME Shell 42–44 support as a legacy extension tree; fixed a crash that made systemd restart the shell on every refresh. → [PR #663](https://github.com/akitaonrails/ai-usagebar/pull/663)
 Added projected pace and trend sparklines to `usage --json` and both GNOME frontends. → [PR #674](https://github.com/akitaonrails/ai-usagebar/pull/674)
