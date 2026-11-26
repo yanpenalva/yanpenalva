@@ -15,6 +15,8 @@ Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgrad
 
 ## Open Source
 
+Ten merged pull requests upstream — seven in [ai-memory](https://github.com/akitaonrails/ai-memory), two in [ai-usagebar](https://github.com/akitaonrails/ai-usagebar), one in [laravel-acl](https://github.com/yajra/laravel-acl) — plus the DevOps track of a 21k★ computer science curriculum.
+
 - **Archived OpenCode skills and Gemini CLI skills and plugins in `backup-agents`**  
   [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2470](https://github.com/akitaonrails/ai-memory/pull/2470) [#2473](https://github.com/akitaonrails/ai-memory/pull/2473) [#2478](https://github.com/akitaonrails/ai-memory/pull/2478)
 
