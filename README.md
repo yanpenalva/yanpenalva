@@ -21,6 +21,12 @@ Systems Analysis and Development, [UNIFACS](https://www.unifacs.br/) · Postgrad
 - **Kept spooled hook events queued instead of spending a retry when a short deadline expires mid-connect**  
   [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2471](https://github.com/akitaonrails/ai-memory/pull/2471)
 
+- **Added backward paging through a managed workstream ledger with `--before-sequence`**  
+  [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2494](https://github.com/akitaonrails/ai-memory/pull/2494)
+
+- **Added page-metadata filters to the JSON search API, applied before ranking**  
+  [ai-memory](https://github.com/akitaonrails/ai-memory) 16k★ · [#2496](https://github.com/akitaonrails/ai-memory/pull/2496)
+
 - **Added GNOME Shell 42–44 support, and fixed a crash that made systemd restart the shell on every refresh**  
   [ai-usagebar](https://github.com/akitaonrails/ai-usagebar) 801★ · [#663](https://github.com/akitaonrails/ai-usagebar/pull/663)
 
